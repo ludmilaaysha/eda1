@@ -30,7 +30,6 @@ Este projeto utiliza a linguagem **C**. Para compilar e executar os arquivos de 
 
    ```bash
    gcc -o nome_do_programa arquivo.c
-   ```
 
 ### Executando o Programa
 
@@ -38,6 +37,5 @@ Após compilar o código, execute o programa com o comando:
 
     ```bash
     ./nome_do_programa
-    ```
 
-    Este comando irá rodar o programa gerado a partir do código C.
+Este comando irá rodar o programa gerado a partir do código C.

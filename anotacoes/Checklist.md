@@ -1,0 +1,7 @@
+- [ ] Fila de prioridades
+- [ ] Heap sort
+- [ ] Intro Sort
+- [ ] Counting Sort
+- [ ] Radix Sort
+- [ ] Insertion, merge e quick sorts
+- [ ] Complexidade
